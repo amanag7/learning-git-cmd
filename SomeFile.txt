@@ -1,2 +1,2 @@
 Hey this is my first time learning git from cmd
-Insert bullshit here.
+Insert bullshit here...
