@@ -1,2 +1,2 @@
-Hey this is a new project.
+Hey this is my first time learning git from cmd
 Insert some really good shit here.
